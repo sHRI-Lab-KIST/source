@@ -8,7 +8,7 @@ Description : Detecting direction in 3D-domain to sound source and Classifing 9-
 
 ![Structure](./images/ssl_ssc.png)
 
-[github-Repository](https://github.com/hyeonukbhin/sound_source_localization)
+### Link : [github-Repository](https://github.com/hyeonukbhin/sound_source_localization)
 
 ## 2. PEX(Personality recongnition EXperiment Framework)
 
@@ -26,7 +26,7 @@ Description : Managing knoweldge that efficiently and Semantically deal with his
 
 ![Structure](./images/km.png)
 
-[github-Repository](https://github.com/hyeonukbhin/personality_recognition)
+### Link : [github-Repository](https://github.com/hyeonukbhin/personality_recognition)
 
 
 ## 4. Intergracted framework for social robot 
@@ -35,4 +35,4 @@ Description : A Framework for running robots in real time based on ROS(Robot Ope
 
 ![Structure](./images/deeptask.png)
 
-[github-Repository](https://github.com/deep-task/KIST_Integration)
+### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
