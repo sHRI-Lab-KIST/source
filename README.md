@@ -8,7 +8,7 @@ Description : Detecting direction in 3D-domain to sound source and Classifing 9-
 
 ![Structure](./images/ssl_ssc.png)
 
-### Link : [github-Repository](https://github.com/hyeonukbhin/sound_source_localization)
+### Link : [github-Repository](https://github.com/hyeonukbhin/ssl_ssc)
 
 ## 2. PEX(Personality recongnition EXperiment Framework)
 
