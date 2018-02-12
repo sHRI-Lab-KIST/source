@@ -36,3 +36,19 @@ Description : A Framework for running robots in real time based on ROS(Robot Ope
 ![Structure](./images/deeptask.png)
 
 ### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
+
+## 5. Navigation
+
+Description : preparing...
+
+![Structure](./images/navigation.png)
+
+### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
+
+## 6. Social navigation
+
+Description : preparing...
+
+![Structure](./images/social_navigation.png)
+
+### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
