@@ -55,8 +55,8 @@ Description : preparing...
 
 ## 7. Dialog gathering system for social conversation
 
-Description : preparing...
+Description : A system that automatically acquires dialogue data from multiple users through Google form. The system works through the interaction of the automation server and the Google API. Currently, it is still under development but we are going to add social factors such as the situation of the dialogue in the near future.
 
-![Structure](./images/social_navigation.png)
+![Structure](./images/dialog_gathering.png)
 
-### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
+### Link : [github-Repository](https://github.com/GyeoreLee/Deeptask_WOZ)

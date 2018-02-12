@@ -60,3 +60,11 @@ Description : A system that automatically acquires dialogue data from multiple u
 ![Structure](./images/dialog_gathering.png)
 
 ### Link : [github-Repository](https://github.com/GyeoreLee/Deeptask_WOZ)
+
+
+## 8. Perception Sensor Network Unit
+
+Description : Perception Sensing Network Unit in Project "Sensor Network In-Motion Perception In-Clouds" (Reorganizing...). 
+![Structure](./images/psn_unit.jpg)
+
+### Link : [github-Repository](https://bitbucket.org/simonpicShare/psn_unit)
