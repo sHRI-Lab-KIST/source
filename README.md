@@ -79,3 +79,16 @@ Description :  It is used to make motion file with xml format and classify motio
 ### Link : [github-Repository](https://github.com/Geonhee-LEE/action_engine.git)
 
 
+
+## 10. Knowledge System for Dementia Patients
+
+Description :  Ontology-based knowledge system for caring person with dementia at home or care facility using context reasoning.
+
+![Structure](./images/CR_Architecture.PNG)
+
+![Structure](./images/CR_User_Interface.PNG)
+
+### Link : [github-Repository](https://github.com/HW-Jeon/context_reasoner_for_demenia_patient)
+
+
+
