@@ -39,19 +39,19 @@ Description : A Framework for running robots in real time based on ROS(Robot Ope
 
 ## 5. Navigation
 
-Description : preparing...
+Description : Building a remote control architecture for users to communicate and control using only their brain activity.  we are making framework and GUI for BCI(Brain Computer Interface)
 
 ![Structure](./images/navigation.png)
 
-### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
+### Link : [github-Repository](https://github.com/Taemin0707/navigation)
 
 ## 6. Social navigation
 
-Description : preparing...
+Description : Semantic mapping for Human-Robot Interaction. We use [aruco_ros](https://github.com/pal-robotics/aruco_ros) for recognizing some objects. Then, we get a common sense about this objects on [ConceptNet](https://github.com/commonsense/conceptnet5/wiki/API) and add location' attribute on the map.   
 
 ![Structure](./images/social_navigation.png)
 
-### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
+### Link : [github-Repository](https://github.com/Taemin0707/social_navigation)
 
 ## 7. Dialog gathering system for social conversation
 
@@ -60,3 +60,60 @@ Description : A system that automatically acquires dialogue data from multiple u
 ![Structure](./images/dialog_gathering.png)
 
 ### Link : [github-Repository](https://github.com/GyeoreLee/Deeptask_WOZ)
+
+
+## 8. Perception Sensor Network Unit
+
+Description : Perception Sensing Network Unit in Project "Sensor Network In-Motion Perception In-Clouds" (Reorganizing...). 
+![Structure](./images/psn_unit.jpg)
+
+### Link : [github-Repository](https://bitbucket.org/simonpicShare/psn_unit)
+
+
+
+## 9. action_engine
+
+Description :  It is used to make motion file with xml format and classify motion along with mode.
+
+![Structure](./images/action_engine.png)
+### Link : [github-Repository](https://github.com/Geonhee-LEE/action_engine.git)
+
+
+
+## 10. Knowledge System for Dementia Patients
+
+Description :  Ontology-based knowledge system for caring person with dementia at home or care facility using context reasoning.
+
+
+
+1. Architecture
+
+![Structure](./images/CR_Architecture.PNG)
+
+
+
+2. User Interface Example
+
+![Structure](./images/CR_User_Interface.PNG)
+
+
+
+
+
+3. Applied Robot Platform Example
+<div align="center">
+    <iframe width="620" height="315" src="https://youtu.be/fd4qrVeuXf8">  </iframe>
+</div>
+
+
+
+
+
+
+
+
+
+### Link : [github-Repository](https://github.com/HW-Jeon/context_reasoner_for_demenia_patient)
+
+
+
