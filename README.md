@@ -112,9 +112,9 @@ Description :  Ontology-based knowledge system for caring person with dementia a
 ### Link : [github-Repository](https://github.com/HW-Jeon/context_reasoner_for_demenia_patient)
 
 
-## 11. Perception Sensor Network Unit
+## 11. Intergracted framework for Perception Sensor Network Unit
 
 Description : A system capable of detecting the human perception by incorporating of multimodal perceptual features and multi-view based perception sensor network. (Reorganizing...). 
-![Structure](./images/SimonPiC_Architecture)
+![Structure](./images/SimonPiC_Architecture.png)
 
 ### Link : [github-Repository](https://github.com/GyeoreLee/Simonpic_Recognition)
