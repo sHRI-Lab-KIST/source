@@ -39,19 +39,19 @@ Description : A Framework for running robots in real time based on ROS(Robot Ope
 
 ## 5. Navigation
 
-Description : preparing...
+Description : Building a remote control architecture for users to communicate and control using only their brain activity.  we are making framework and GUI for BCI(Brain Computer Interface)
 
 ![Structure](./images/navigation.png)
 
-### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
+### Link : [github-Repository](https://github.com/Taemin0707/navigation)
 
 ## 6. Social navigation
 
-Description : preparing...
+Description : Semantic mapping for Human-Robot Interaction. We use [aruco_ros](https://github.com/pal-robotics/aruco_ros) for recognizing some objects. Then, we get a common sense about this objects on [ConceptNet](https://github.com/commonsense/conceptnet5/wiki/API) and add location' attribute on the map.   
 
 ![Structure](./images/social_navigation.png)
 
-### Link : [github-Repository](https://github.com/deep-task/KIST_Integration)
+### Link : [github-Repository](https://github.com/Taemin0707/social_navigation)
 
 ## 7. Dialog gathering system for social conversation
 
