@@ -102,8 +102,7 @@ Description :  Ontology-based knowledge system for caring person with dementia a
 
 3. Applied Robot Platform Example
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/fd4qrVeuXf8/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Ontology-based Dementia Care Support System")
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/fd4qrVeuXf8/0.jpg)](https://youtu.be/fd4qrVeuXf8 "Ontology-based Dementia Care Support System")
 
 
 
